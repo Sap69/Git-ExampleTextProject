@@ -1,0 +1,6 @@
+E:\Work\LessonsText\Delegetes\PlayLamda\PlayLamda\bin\Debug\PlayLamda.exe.config
+E:\Work\LessonsText\Delegetes\PlayLamda\PlayLamda\bin\Debug\PlayLamda.exe
+E:\Work\LessonsText\Delegetes\PlayLamda\PlayLamda\bin\Debug\PlayLamda.pdb
+E:\Work\LessonsText\Delegetes\PlayLamda\PlayLamda\obj\Debug\PlayLamda.csprojResolveAssemblyReference.cache
+E:\Work\LessonsText\Delegetes\PlayLamda\PlayLamda\obj\Debug\PlayLamda.exe
+E:\Work\LessonsText\Delegetes\PlayLamda\PlayLamda\obj\Debug\PlayLamda.pdb

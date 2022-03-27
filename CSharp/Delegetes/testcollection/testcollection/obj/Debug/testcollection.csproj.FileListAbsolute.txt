@@ -1,0 +1,6 @@
+E:\Work\LessonsText\Delegetes\testcollection\testcollection\bin\Debug\testcollection.exe.config
+E:\Work\LessonsText\Delegetes\testcollection\testcollection\bin\Debug\testcollection.exe
+E:\Work\LessonsText\Delegetes\testcollection\testcollection\bin\Debug\testcollection.pdb
+E:\Work\LessonsText\Delegetes\testcollection\testcollection\obj\Debug\testcollection.csprojResolveAssemblyReference.cache
+E:\Work\LessonsText\Delegetes\testcollection\testcollection\obj\Debug\testcollection.exe
+E:\Work\LessonsText\Delegetes\testcollection\testcollection\obj\Debug\testcollection.pdb
